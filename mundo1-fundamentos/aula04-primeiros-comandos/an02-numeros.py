@@ -5,4 +5,4 @@ print(7+4)# = 11
 print('7'+'4')# = '74'
 
 # para concatenar dois valores nós podemos ultilizar tanto + como ,
-print('São','Paulo')# = '7 4'
+print('São','Paulo')# = 'São Paulo'
