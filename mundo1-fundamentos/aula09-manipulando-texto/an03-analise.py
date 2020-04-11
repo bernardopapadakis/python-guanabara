@@ -3,6 +3,7 @@
 - len
 - .count
 - .find
+- in
 """
 frase = 'Curso em Vídeo Python'
 print(len(frase)) # mostra quantos bytes tem
