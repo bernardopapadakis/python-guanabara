@@ -34,4 +34,4 @@ for c in range(1, 5):
 médiaidade = totidade / 4
 print(f'A idade média do grupo é {médiaidade} anos')
 print(f'O homem mais velho tem {idademaisvelho} e se chama {homemmaisvelho}')
-print(f'{totmulher20} mulheres tem menos de 20 anos')
+print(f'No total, {totmulher20} mulheres tem menos de 20 anos')
